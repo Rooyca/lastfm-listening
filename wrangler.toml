@@ -1,0 +1,8 @@
+name = "listening"
+main = "src/index.js"
+compatibility_date = "2024-06-15"
+workers_dev = true
+
+
+[vars]
+URL_START = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user="
